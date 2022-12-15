@@ -1,7 +1,7 @@
 Hey!
 
-We've come up with 3 tasks to check your skills in Python, SQL and Tableau.
-These tasks are aligned with some of our Namaste workflows.
+We've come up with 3 tasks to check your skills in Excel, Python, SQL and Tableau.
+These tasks are aligned with some companies workflows.
 
 You can add the solutions to the tasks in a public repository of your choice, or send us a .zip file.
 
@@ -33,7 +33,7 @@ The dump we are providing you is a JSON array that contains orders, following th
 
 
 ## Task 1: Python. Data Manipulation and usage of external APIs
-IIn this task make data ready for further stwps
+In this task make data ready for further steps
 
 ## Task 2: SQL
 In this task, we would like you to persist the data obtained from task 1: upload your data to a SQL database of your choice (SQLite, MySQL, PostgreSQL ...).
@@ -58,6 +58,5 @@ Plug the data you created in the 2 first tasks, and use your knowledge about e-c
 Q1. You're intentionally free to present any metrics you think could be interesting for the Finance department.
 Financial numbers should be presented in CAD.
 
-The outcome of this task will be a link to your dashboard.
 
 Thank you!
