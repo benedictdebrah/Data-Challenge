@@ -1,0 +1,38 @@
+﻿Column1.id,Column1.customer.id,Column1.customer.name,Column1.customer.email,Column1.total_price,Column1.created_at,Column1.line_items.id,Column1.line_items.product_id,Column1.line_items.product_sku,Column1.line_items.product_name,Column1.line_items.price
+8.36926E+15,47178,William Doe,william.doe@gmail.com,79.39,2020-03-07T14:31:11Z,610448,632910392,PPLEPUNCH20-05,Purple Punch 2.0 Dried Flower,29.4
+8.36926E+15,47178,William Doe,william.doe@gmail.com,79.39,2020-03-07T14:31:11Z,997208,278266679,GPSTASH-01,Grandpa's Stash Dried Flower,49.99
+7.26217E+15,94720,Emile Tumson,emile.tumson@gmail.com,86.98,2020-03-01T09:16:30Z,997208,278266679,GPSTASH-01,Grandpa's Stash Dried Flower,49.99
+7.26217E+15,94720,Emile Tumson,emile.tumson@gmail.com,86.98,2020-03-01T09:16:30Z,759658,573794972,SAGENSOUR-01,Sage N Sour Dried Flower,36.99
+7.72206E+15,59933,Ethan Jones,ethan.jones@gmail.com,36.99,2020-01-01T09:17:03Z,759658,573794972,SAGENSOUR-01,Sage N Sour Dried Flower,36.99
+4.28085E+15,23955,Daniel Smith,daniel.smith@gmail.com,55.98,2020-03-10T11:59:46Z,317808,477365777,GOGPR-07,Glueberry OG Pre-Rolls,5.99
+4.28085E+15,23955,Daniel Smith,daniel.smith@gmail.com,55.98,2020-03-10T11:59:46Z,771854,694165761,HYBTINC-03,Hybrid Blend THC Tincture,49.99
+5.05873E+15,59933,Ethan Jones,ethan.jones@gmail.com,309.98,2020-03-15T07:27:24Z,604665,510650809,PAX-3,Pax 3 Vaporizer,259.99
+5.05873E+15,59933,Ethan Jones,ethan.jones@gmail.com,309.98,2020-03-15T07:27:24Z,997208,278266679,GPSTASH-01,Grandpa's Stash Dried Flower,49.99
+6.4314E+15,23955,Daniel Smith,daniel.smith@gmail.com,315.97,2020-03-12T07:16:07Z,997208,278266679,GPSTASH-01,Grandpa's Stash Dried Flower,49.99
+6.4314E+15,23955,Daniel Smith,daniel.smith@gmail.com,315.97,2020-03-12T07:16:07Z,317808,477365777,GOGPR-07,Glueberry OG Pre-Rolls,5.99
+6.4314E+15,23955,Daniel Smith,daniel.smith@gmail.com,315.97,2020-03-12T07:16:07Z,604665,510650809,PAX-3,Pax 3 Vaporizer,259.99
+5.79196E+15,47178,William Doe,william.doe@gmail.com,36.99,2020-03-24T09:52:40Z,759658,573794972,SAGENSOUR-01,Sage N Sour Dried Flower,36.99
+2.07964E+15,23955,Daniel Smith,daniel.smith@gmail.com,55.98,2020-02-19T19:33:57Z,317808,477365777,GOGPR-07,Glueberry OG Pre-Rolls,5.99
+2.07964E+15,23955,Daniel Smith,daniel.smith@gmail.com,55.98,2020-02-19T19:33:57Z,771854,694165761,HYBTINC-03,Hybrid Blend THC Tincture,49.99
+2.24984E+15,47178,William Doe,william.doe@gmail.com,309.98,2020-03-13T12:15:51Z,604665,510650809,PAX-3,Pax 3 Vaporizer,259.99
+2.24984E+15,47178,William Doe,william.doe@gmail.com,309.98,2020-03-13T12:15:51Z,997208,278266679,GPSTASH-01,Grandpa's Stash Dried Flower,49.99
+7.63874E+15,59933,Ethan Jones,ethan.jones@gmail.com,35.39,2020-03-08T05:28:01Z,317808,477365777,GOGPR-07,Glueberry OG Pre-Rolls,5.99
+7.63874E+15,59933,Ethan Jones,ethan.jones@gmail.com,35.39,2020-03-08T05:28:01Z,610448,632910392,PPLEPUNCH20-05,Purple Punch 2.0 Dried Flower,29.4
+5.30719E+15,47178,William Doe,william.doe@gmail.com,86.98,2020-03-12T01:40:57Z,997208,278266679,GPSTASH-01,Grandpa's Stash Dried Flower,49.99
+5.30719E+15,47178,William Doe,william.doe@gmail.com,86.98,2020-03-12T01:40:57Z,759658,573794972,SAGENSOUR-01,Sage N Sour Dried Flower,36.99
+8.66298E+15,94720,Emile Tumson,emile.tumson@gmail.com,5.99,2020-02-05T10:22:49Z,317808,477365777,GOGPR-07,Glueberry OG Pre-Rolls,5.99
+2.36662E+15,23955,Daniel Smith,daniel.smith@gmail.com,259.99,2020-01-18T12:46:12Z,604665,510650809,PAX-3,Pax 3 Vaporizer,259.99
+9.78685E+15,59933,Ethan Jones,ethan.jones@gmail.com,79.39,2020-03-18T13:43:24Z,771854,694165761,HYBTINC-03,Hybrid Blend THC Tincture,49.99
+9.78685E+15,59933,Ethan Jones,ethan.jones@gmail.com,79.39,2020-03-18T13:43:24Z,610448,632910392,PPLEPUNCH20-05,Purple Punch 2.0 Dried Flower,29.4
+6.25509E+15,94720,Emile Tumson,emile.tumson@gmail.com,55.98,2020-01-05T09:41:30Z,997208,278266679,GPSTASH-01,Grandpa's Stash Dried Flower,49.99
+6.25509E+15,94720,Emile Tumson,emile.tumson@gmail.com,55.98,2020-01-05T09:41:30Z,317808,477365777,GOGPR-07,Glueberry OG Pre-Rolls,5.99
+5.23593E+15,94720,Emile Tumson,emile.tumson@gmail.com,36.99,2020-03-24T07:12:33Z,759658,573794972,SAGENSOUR-01,Sage N Sour Dried Flower,36.99
+5.82555E+15,59933,Ethan Jones,ethan.jones@gmail.com,55.98,2020-01-01T12:59:26Z,771854,694165761,HYBTINC-03,Hybrid Blend THC Tincture,49.99
+5.82555E+15,59933,Ethan Jones,ethan.jones@gmail.com,55.98,2020-01-01T12:59:26Z,317808,477365777,GOGPR-07,Glueberry OG Pre-Rolls,5.99
+1.2883E+15,23955,Daniel Smith,daniel.smith@gmail.com,29.4,2020-01-19T03:53:34Z,610448,632910392,PPLEPUNCH20-05,Purple Punch 2.0 Dried Flower,29.4
+1.10485E+15,94720,Emile Tumson,emile.tumson@gmail.com,86.98,2020-02-22T21:44:05Z,997208,278266679,GPSTASH-01,Grandpa's Stash Dried Flower,49.99
+1.10485E+15,94720,Emile Tumson,emile.tumson@gmail.com,86.98,2020-02-22T21:44:05Z,759658,573794972,SAGENSOUR-01,Sage N Sour Dried Flower,36.99
+2.21238E+15,59933,Ethan Jones,ethan.jones@gmail.com,142.96,2020-01-22T21:26:52Z,997208,278266679,GPSTASH-01,Grandpa's Stash Dried Flower,49.99
+2.21238E+15,59933,Ethan Jones,ethan.jones@gmail.com,142.96,2020-01-22T21:26:52Z,759658,573794972,SAGENSOUR-01,Sage N Sour Dried Flower,36.99
+2.21238E+15,59933,Ethan Jones,ethan.jones@gmail.com,142.96,2020-01-22T21:26:52Z,317808,477365777,GOGPR-07,Glueberry OG Pre-Rolls,5.99
+2.21238E+15,59933,Ethan Jones,ethan.jones@gmail.com,142.96,2020-01-22T21:26:52Z,771854,694165761,HYBTINC-03,Hybrid Blend THC Tincture,49.99
