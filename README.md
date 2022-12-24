@@ -59,10 +59,10 @@ Thank you!
 
 
 <h2>These are the video walk through for the tasks above</h2>
-<a href=''>Task 1 </a>
+<a href='https://youtu.be/flHYI5p32ME'>Task 1 </a>
 <br>
-<a href=''>Task 2 </a>
+<a href='https://youtu.be/W9d6C8zh3kU'>Task 2 </a>
 <br>
-<a href=''>Task 3 </a>
+<a href='https://youtu.be/vaXW45193vQ'>Task 3 </a>
 
 <p>feedbacks are highly welcomed at bende.tymer@gmail.com
