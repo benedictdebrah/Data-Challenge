@@ -65,4 +65,6 @@ Thank you!
 <br>
 <a href='https://youtu.be/vaXW45193vQ'>Task 3 </a>
 
-<p>feedbacks are highly welcomed at bende.tymer@gmail.com
+<p>
+<a href='shorturl.at/gmnz1'>Dashboard link<a>
+</p>
